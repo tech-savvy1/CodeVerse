@@ -1,8 +1,8 @@
-# 📘 E-Learning Website using HTML5, CSS3, Bootstrap 5 and JavaScript
+# 🎯 CodeVerse
 
 ![E-Learning Website](preview.jpg)
 
-**Secret Coder** is an e-learning website designed to provide a user-friendly and responsive platform for learners to access educational content. This project uses HTML, CSS, Bootstrap 5, and JavaScript to deliver an interactive and visually appealing learning experience.
+**CodeVerse** is an e-learning website designed to provide a user-friendly and responsive platform for learners to access educational content. This project uses HTML, CSS, Bootstrap 5, and JavaScript to deliver an interactive and visually appealing learning experience.
 
 ---
 
@@ -24,9 +24,15 @@ This project involves the creation of a fully responsive and interactive e-learn
 
 ---
 
-## 🛠️ Getting Started
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- Bootstrap 5
+- JavaScript
 
-### ✅ Prerequisites
+---
+
+## ✅ Prerequisites
 
 Make sure you have the following:
 
