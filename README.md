@@ -1,6 +1,8 @@
 # 🎯 CodeVerse
 
-![E-Learning Website](preview.jpg)
+![E-Learning Website](codeverse1.png)
+![E-Learning Website](codeverse2.png)
+![E-Learning Website](codeverse3.png)
 
 **CodeVerse** is an e-learning website designed to provide a user-friendly and responsive platform for learners to access educational content. This project uses HTML, CSS, Bootstrap 5, and JavaScript to deliver an interactive and visually appealing learning experience.
 
